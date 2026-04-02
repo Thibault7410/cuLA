@@ -227,3 +227,7 @@ If you find cuLA useful, please cite it using the metadata in our [`CITATION.cff
 If you're interested in an internship or job opportunity, feel free to reach out: **shuyan.ycf@antgroup.com**  / **chaofanyu@gmail.com**
 
 No CUDA experience is required as long as you're a quick learner.
+
+For Q&A and discussion, you can also join the cuLA discussion group:
+
+![cuLA discussion group](cuLA-wechat.JPG)
